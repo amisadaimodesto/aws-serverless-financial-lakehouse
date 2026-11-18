@@ -191,14 +191,3 @@ Um **Data Lakehouse Financeiro Serverless** orientado a eventos e com custo zero
 
    ```
 
-EOF
-
-cp README.md README.txt && \
-
-git add .gitignore docker-compose.yml README.md README.txt lambdas/ scripts/ terraform/providers.tf terraform/variables.tf terraform/storage_and_messaging.tf terraform/compute_and_orchestration.tf terraform/outputs.tf terraform/.terraform.lock.hcl && \
-
-git commit -m "feat: implement event-driven serverless financial lakehouse with Terraform and LocalStack" && \
-
-git status
-
-```
