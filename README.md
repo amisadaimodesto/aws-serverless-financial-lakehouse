@@ -1,5 +1,7 @@
 # AWS Serverless Financial Lakehouse (Terraform + LocalStack)
 
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white) ![LocalStack](https://img.shields.io/badge/LocalStack-3.8.1-%2300A8E8.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 
 
 Um **Data Lakehouse Financeiro Serverless** orientado a eventos e com custo zero, construído com **Terraform**, **AWS Lambda (Python 3.12)**, **S3 (Arquitetura Medallion)**, **SQS + DLQ**, **DynamoDB** e **Step Functions**, executando 100% localmente via **LocalStack Community**.
