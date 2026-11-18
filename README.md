@@ -1,7 +1,6 @@
 # AWS Serverless Financial Lakehouse (Terraform + LocalStack)
 
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white) ![LocalStack](https://img.shields.io/badge/LocalStack-3.8.1-%2300A8E8.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon_S3_Medallion-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![Amazon SQS](https://img.shields.io/badge/Amazon_SQS_%2B_DLQ-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white) ![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white) ![AWS Step Functions](https://img.shields.io/badge/AWS_Step_Functions-FF4F8B?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 
 
